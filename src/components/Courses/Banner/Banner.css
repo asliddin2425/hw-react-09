@@ -1,0 +1,9 @@
+body{
+    position: relative;
+}
+.banner{
+    position: absolute;
+    top: 152px;
+    left: 1082px;
+    
+}

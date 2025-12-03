@@ -1,0 +1,57 @@
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    width: 1440px;
+    height: 208px;
+    background-color: #1A1D1F;
+    margin-top: 200px;
+}
+#footer-uzchess{
+    display: flex;
+    align-items: center;
+    width: 112px;
+    height: 28px;
+    margin: 32px 664px;
+}
+.footer ol{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 632px;
+    height: 21px;
+    margin: -16px 403px;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0px 24px;
+    font-family: sans-serif;
+    color: #EFEFEF;
+}
+
+.social-icons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 148px;
+    height: 20px;
+    margin: 25px 646px;
+    gap: 12px;
+}
+.footer-end{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1440px;
+    height: 50px;
+    border: 1px solid #303336;
+}
+.footer-end p{
+        font-size: 16px;
+        font-family: sans-serif;
+        font-weight: 500;
+        color: #EFEFEF;
+        margin: 12px 10px;
+}
+.footer-end img{
+    margin-left: -74px;
+}

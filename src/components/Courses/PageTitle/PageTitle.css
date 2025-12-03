@@ -1,0 +1,25 @@
+.page-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 326px;
+    height: 100px;
+    border-radius: 8px;
+    margin: 12px 32px;
+    background-color: #1A1D1F;
+}
+
+.page-title img{
+    margin: 28px -54px;
+    filter: drop-shadow( 0px 0px s32px #1C92E0);
+        
+}
+.page-title h1{
+    user-select: none;
+    width: 183px;
+    height: 42px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    margin-left: 12px;
+}
